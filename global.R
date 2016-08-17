@@ -6,8 +6,7 @@ library(ggvis)
 library(ggbio)
 #devtools::install_github("timelyportfolio/d3vennR")
 library(d3vennR)
-#Thomas Girke range overlap script
-#http://manuals.bioinformatics.ucr.edu/home/ht-seq#TOC-Analysis-Routines-with-IRanges-Geno
+
 source("olRanges.R")
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Prep ggbio hg19 circos files
